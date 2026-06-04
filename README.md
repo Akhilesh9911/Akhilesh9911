@@ -68,7 +68,7 @@
 ---
 
 ## 📄 Resume
-- https://raw.githubusercontent.com/Akhilesh9911/Akhilesh_Chitare_Resume_26/main/Akhilesh_Chitare_Resume_26.pdf  
+- https://raw.githubusercontent.com/Akhilesh9911/Akhilesh_Chitare_Resume_26/main/Akhilesh_Chitare_Latest_Resume.pdf  
 
 ---
 
