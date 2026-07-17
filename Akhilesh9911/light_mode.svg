@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="620px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0550ae;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #6e7781;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="620px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="20" y="30" fill="#24292f" font-size="16px">
+<tspan x="20" y="30">akhilesh@chitare</tspan><tspan fill="#6e7781"> -&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;</tspan>
+<tspan x="20" y="55" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................. </tspan><tspan class="value">Windows 11, Android 14</tspan>
+<tspan x="20" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .............. </tspan><tspan class="value">21 years, 10 months</tspan>
+<tspan x="20" y="105" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ....... </tspan><tspan class="value">B.E. Computer Science &amp; Engg.</tspan>
+<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ................. </tspan><tspan class="value">Java Backend Developer</tspan>
+<tspan x="20" y="155" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: .................. </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
+<tspan x="20" y="180" class="cc">. </tspan>
+<tspan x="20" y="205" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: .... </tspan><tspan class="value">Java, Python, JavaScript</tspan>
+<tspan x="20" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Web</tspan><tspan class="cc">: ........... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="20" y="255" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan><tspan class="cc">: .......... </tspan><tspan class="value">English, Hindi, Marathi</tspan>
+<tspan x="20" y="280" class="cc">. </tspan>
+<tspan x="20" y="305" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Core</tspan><tspan class="cc">: ..... </tspan><tspan class="value">Spring Boot, Security, REST APIs</tspan>
+<tspan x="20" y="330" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ..... </tspan><tspan class="value">MySQL, Hibernate, JPA, JDBC</tspan>
+<tspan x="20" y="355" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Tools</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Maven, Git, Postman, JWT</tspan>
+<tspan x="20" y="380" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Puzzle</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Rubik&apos;s Cube Solving</tspan>
+<tspan x="20" y="405" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="cc">.</tspan><tspan class="key">Building</tspan><tspan class="cc">: ... </tspan><tspan class="value">HireForge AI - Career Accelerator</tspan>
+<tspan x="20" y="430" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="cc">.</tspan><tspan class="key">Learning</tspan><tspan class="cc">: ... </tspan><tspan class="value">Docker, Microservices, AWS</tspan>
+<tspan x="20" y="455" fill="#24292f">- Contact<tspan fill="#6e7781"> -&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;</tspan></tspan>
+<tspan x="20" y="478" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">: ................. </tspan><tspan class="value">akhileshchitare04@gmail.com</tspan>
+<tspan x="20" y="500" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: .............. </tspan><tspan class="value">linkedin.com/in/akhilesh00</tspan>
+<tspan x="20" y="522" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ................ </tspan><tspan class="value">github.com/Akhilesh9911</tspan>
+</text>
+</svg>

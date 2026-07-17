@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<!-- Circular clip for photo -->
+<defs>
+  <clipPath id="circleClip">
+    <circle cx="185" cy="185" r="155"/>
+  </clipPath>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+  </filter>
+</defs>
+
+<!-- Glowing ring around photo -->
+<circle cx="185" cy="185" r="160" fill="none" stroke="#ffa657" stroke-width="2.5" opacity="0.7"/>
+<circle cx="185" cy="185" r="163" fill="none" stroke="#a5d6ff" stroke-width="1" opacity="0.4"/>
+
+<!-- Embedded photo in circle -->
+<image href = "Akhilesh9911\profile.jpeg"  x="30" y="30" width="310" height="310"
+  clip-path="url(#circleClip)"
+  preserveAspectRatio="xMidYMid slice"/>
+
+<!-- Name and role below photo -->
+<text x="185" y="372" fill="#c9d1d9" font-size="17px" text-anchor="middle" font-weight="bold">Akhilesh Chitare</text>
+<text x="185" y="394" fill="#ffa657" font-size="13px" text-anchor="middle">Java Backend Developer</text>
+
+<!-- Decorative line separator -->
+<line x1="30" y1="408" x2="340" y2="408" stroke="#616e7f" stroke-width="1" opacity="0.5"/>
+
+<!-- Tech stack pills below -->
+<text x="185" y="430" fill="#616e7f" font-size="12px" text-anchor="middle">Spring Boot · MySQL · REST APIs · JWT</text>
+<text x="185" y="450" fill="#616e7f" font-size="12px" text-anchor="middle">Hibernate · Docker · AWS · Maven</text>
+
+<text x="185" y="480" fill="#3fb950" font-size="12px" text-anchor="middle">&#x25CF; Building: HireForge AI</text>
+<text x="185" y="500" fill="#a5d6ff" font-size="12px" text-anchor="middle">&#x1F9E9; Hobby: Rubik&apos;s Cube Solver</text>
+
+<!-- RIGHT PANEL -->
+<text x="390" y="30" fill="#c9d1d9" font-size="16px">
+<tspan x="390" y="30">akhilesh@chitare</tspan><tspan fill="#616e7f"> -&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;</tspan>
+<tspan x="390" y="52" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">Windows 11, Android 14</tspan>
+<tspan x="390" y="74" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">21 years, 10 months</tspan>
+<tspan x="390" y="96" class="cc">. </tspan><tspan class="key">Education</tspan><tspan class="cc">: ......... </tspan><tspan class="value">B.E. Computer Science &amp; Engineering</tspan>
+<tspan x="390" y="118" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">Java Backend Developer</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: .......................... </tspan><tspan class="value">IntelliJ IDEA, VSCode</tspan>
+<tspan x="390" y="162" class="cc">. </tspan>
+<tspan x="390" y="184" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Programming</tspan><tspan class="cc">: ...... </tspan><tspan class="value">Java, Python, JavaScript</tspan>
+<tspan x="390" y="206" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Web</tspan><tspan class="cc">: ............... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="390" y="228" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">.</tspan><tspan class="key">Real</tspan><tspan class="cc">: .............. </tspan><tspan class="value">English, Hindi, Marathi</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="272" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Core</tspan><tspan class="cc">: ....... </tspan><tspan class="value">Spring Boot, Security, REST APIs</tspan>
+<tspan x="390" y="294" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Database</tspan><tspan class="cc">: ....... </tspan><tspan class="value">MySQL, Hibernate, JPA, JDBC</tspan>
+<tspan x="390" y="316" class="cc">. </tspan><tspan class="key">Backend</tspan><tspan class="cc">.</tspan><tspan class="key">Tools</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Maven, Git, Postman, JWT</tspan>
+<tspan x="390" y="338" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc">.</tspan><tspan class="key">Puzzle</tspan><tspan class="cc">: ......... </tspan><tspan class="value">Rubik&apos;s Cube Solving</tspan>
+<tspan x="390" y="360" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="cc">.</tspan><tspan class="key">Building</tspan><tspan class="cc">: ..... </tspan><tspan class="value">HireForge AI - Career Accelerator</tspan>
+<tspan x="390" y="382" class="cc">. </tspan><tspan class="key">Currently</tspan><tspan class="cc">.</tspan><tspan class="key">Learning</tspan><tspan class="cc">: ..... </tspan><tspan class="value">Docker, Microservices, AWS</tspan>
+<tspan x="390" y="404" fill="#c9d1d9">- Contact<tspan fill="#616e7f"> -&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;</tspan></tspan>
+<tspan x="390" y="426" class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">: ......................... </tspan><tspan class="value">akhileshchitare04@gmail.com</tspan>
+<tspan x="390" y="448" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">linkedin.com/in/akhilesh00</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">github.com/Akhilesh9911</tspan>
+<tspan x="390" y="492" fill="#c9d1d9">- GitHub Stats<tspan fill="#616e7f"> -&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;&#x2014;</tspan></tspan>
+<tspan x="390" y="514" class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="cc" id="repo_data_dots">: .............. </tspan><tspan class="value" id="repo_data">--</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan><tspan class="cc" id="star_data_dots">: ......... </tspan><tspan class="value" id="star_data">--</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc" id="follower_data_dots">: .. </tspan><tspan class="value" id="follower_data">--</tspan>
+</text>
+</svg>
