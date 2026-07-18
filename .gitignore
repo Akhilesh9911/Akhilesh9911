@@ -1,0 +1,97 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Java & Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.maven.metadata.xml
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradletasknamecache
+
+# Spring Boot
+application*.properties
+application*.yml
+*.log
+logs/
+
+# Node & npm (for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm/
+.eslintcache
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+database/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea
+.vscode
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+
+# Build artifacts
+dist/
+out/
+bin/
+
+# Caches
+.cache/
+.eslintcache
+
+# Generated files
+.tern-port
