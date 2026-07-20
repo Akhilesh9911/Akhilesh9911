@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Chitare</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot | REST APIs | Building Scalable Backend Systems
+Java Backend Developer | Spring Boot | REST APIs | Building Secure Backend Systems
 </h3>
 
 <p align="center">
-Passionate about building clean, scalable backend applications using Java and Spring Boot while continuously learning modern backend technologies.
+Backend developer focused on building clean, maintainable applications using Java and Spring Boot.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 B.E. in Computer Science & Engineering
-- 💻 Java Backend Developer passionate about building real-world applications
-- 🚀 Currently building **HireForge AI**, an AI-powered career accelerator platform
-- 🔐 Hands-on experience with Spring Security, JWT Authentication, Hibernate, JPA and REST APIs
-- 🌱 Currently learning Docker, Microservices, AWS and System Design
-- 🎯 Goal: Become a Software Engineer specializing in scalable backend systems
+- 🎓 B.Tech in Computer Science & Engineering (2026, CGPA 8.31)
+- 💻 Java Backend Developer with 6 months of hands-on experience
+- 🚀 Built **HireForge AI**, a Spring Boot application with Docker, CI/CD, and AI integration
+- 🔐 Hands-on experience with Spring Security, JWT, Hibernate, JPA, and REST APIs
+- 📰 Co-author, IEEE CNC-2025 publication (YOLOv8-based disease detection)
+- 🎯 Goal: Build scalable, production-ready backend systems
 
 ---
 
@@ -41,83 +41,50 @@ Passionate about building clean, scalable backend applications using Java and Sp
 
 ### Technologies
 
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate
-- JPA
-- REST APIs
-- JWT Authentication
-- JDBC
-- MySQL
-- Maven
-- Git
-- GitHub
-- Postman
+Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT • MySQL • Maven • Git • GitHub • Docker • Postman
 
 ---
 
-# 📌 Featured Projects
+# 📌 Projects
 
-## 🚀 HireForge AI (Ongoing)
+## 🚀 HireForge AI — AI-Powered Resume Analyzer
 
-**AI-Powered Career Accelerator Platform**
+**Deployed Spring Boot application** integrating Google Gemini API for AI-driven resume analysis.
 
-Building a modern AI-powered platform that helps job seekers improve resumes, prepare for interviews, track job applications, and receive personalized career assistance.
+**Features:**
+- JWT-based stateless authentication with custom Spring Security filter
+- Resume upload and parsing (PDF & DOCX support via Apache PDFBox and POI)
+- AI-generated ATS compatibility scores and missing-skills analysis
+- BCrypt password hashing with enumeration-safe error handling
+- Global exception handling via @ControllerAdvice
+- Docker containerization with multi-stage Dockerfile and health checks
+- CI/CD pipeline via GitHub Actions
 
-### Current Progress
+**Tech Stack:** Java 17 • Spring Boot • Spring Security • JWT • Hibernate • JPA • MySQL • Apache PDFBox • Apache POI • Google Gemini API • Docker • GitHub Actions
 
-✅ Project Architecture Designed
-
-✅ Database Schema Designed
-
-✅ Spring Boot Backend Initialized
-
-✅ Authentication System
-
-✅ JWT Authorization
-
-### Tech Stack
-
-Java • Spring Boot • Spring Security • JWT • Hibernate • JPA • MySQL
+**GitHub:** github.com/Akhilesh9911/hireforge-ai
 
 ---
 
-## 📊 CRM System
+## 💼 CRM System
 
-A full-stack Customer Relationship Management application developed for managing customers, leads, deals, tasks and users.
+RESTful backend for customer relationship management with secure API endpoints and relational data modeling.
 
-### Features
+**Features:**
+- Spring Security with JWT-based authentication
+- Full CRUD operations across 4 modules (Customer, Contact, Deal, Task)
+- Optimized JPA queries and normalized MySQL schema
+- Field-level validation and SOLID design principles
 
-- RESTful APIs
-- Authentication & Authorization
-- Customer Management
-- Lead Management
-- Deal Pipeline
-- Task Management
-- Admin Panel
-- Profile Management
-
-**Tech Stack**
-
-Java • Spring Boot • Hibernate • JPA • MySQL • REST APIs
+**Tech Stack:** Java • Spring Boot • Hibernate • JPA • MySQL • REST APIs
 
 ---
 
 ## 🌿 Soybean Leaf Disease Detection
 
-Machine Learning application for detecting Yellow Mosaic Virus in soybean leaves using image classification.
+Deep learning model for detecting and grading soybean leaf disease severity using YOLOv8-based CNN.
 
----
-
-# 🌱 Currently Learning
-
-- Docker
-- Microservices Architecture
-- AWS Cloud
-- System Design
-- Backend Scalability
-- Design Patterns
+**Publication:** IEEE CNC-2025 (ieeexplore.ieee.org/document/11484568)
 
 ---
 
@@ -125,13 +92,13 @@ Machine Learning application for detecting Yellow Mosaic Virus in soybean leaves
 
 ✔ Building production-ready backend applications
 
-✔ Writing clean and maintainable code
+✔ Writing clean, maintainable code
 
-✔ Learning scalable software architecture
+✔ Understanding scalable software architecture
 
 ✔ Improving problem-solving skills
 
-✔ Becoming a better backend engineer every day
+✔ Learning Microservices and System Design concepts
 
 ---
 
@@ -151,20 +118,14 @@ Machine Learning application for detecting Yellow Mosaic Virus in soybean leaves
 
 # 📫 Contact
 
-📧 Email
+📧 Email: akhileshchitare04@gmail.com
 
-akhileshchitare04@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/akhilesh00/
 
-🔗 LinkedIn
-
-https://www.linkedin.com/in/akhilesh00/
-
-💻 GitHub
-
-https://github.com/Akhilesh9911
+💻 GitHub: https://github.com/Akhilesh9911
 
 ---
 
 ## ⚡ Fun Fact
 
-🧩 I enjoy solving Rubik's Cubes—it has helped me develop patience, logical thinking, and problem-solving skills.
+🧩 Competitive Rubik's Cube solver with sub-30s average.
